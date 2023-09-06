@@ -176,6 +176,17 @@ Daelyn Doughty:
     - Office hours will be held on discord and teams and they are Tuesday/Thursday 10:00am-11:30am.
     - I am a junior majoring in computer science. You can find me skating around campus or drinking protein.
 
+Xavier Mitchell:
+~
+    - <xmitchell@augusta.edu>
+    - Best way to reach me is via [email](mailto:xmitchell@augusta.edu)
+    - You can also reach out to me on [discord](http://discordapp.com/users/225385654895378432). Either should be fine I tend to respond to both as quickly as I can.
+    - Office Hours
+        - Monday 10:00am - 12:00pm Online on discord
+        - Wednesday 10:00am - 12:00pm Online on discord
+        - Friday 10:00am - 12:00pm in UH 129
+    - I'm a junior majoring in Computer Science, interested in artificial intelligence, and software developmen, and game development. My hobbies include anime and manga and single player RPG and JRPG games. I try my absolute best to help students in whatever way I can and will explain programming concept as clearly as I can. I hope I can be of assistance during your college experience and programming endeavors.
+    
 --> 
 
 ## Labs Meeting Times
